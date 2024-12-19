@@ -1,6 +1,0 @@
-[submodule "systemicsoftwareengineeringbuild"]
-	path = systemicsoftwareengineeringbuild
-	url = https://github.com/RandomSort/systemicsoftwareengineeringbuild.git
-[submodule "systemicsoftwareengineering"]
-	path = systemicsoftwareengineering
-	url = https://github.com/RandomSort/systemicsoftwareengineering.git
