@@ -14,6 +14,7 @@ section {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
+  background-image: radial-gradient(#999 5%, transparent 0);
   font-family: var(--bodyFont);
   color: var(--darkgray);
 }
