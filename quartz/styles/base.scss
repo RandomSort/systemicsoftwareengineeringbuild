@@ -9,15 +9,22 @@ html {
   width: 100vw;
 }
 
-body,
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #DDD6B9;
+    background-image: radial-gradient(#999 5%, transparent 0);
+    font-family: var(--bodyFont);
+    color: var(--darkgray);
+    background-size: 35px 35px;
+  }
+  
 section {
   margin: 0;
   box-sizing: border-box;
-  background-color: #DDD6B9;
-  background-image: radial-gradient(#999 5%, transparent 0);
+  background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
-  background-size: 35px 35px;
 }
 
 .text-highlight {
